@@ -31,7 +31,7 @@ Una semplice implementazione del gioco "Rock, Paper, Scissors, Lizard, Spock" ut
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-utente/rock-paper-scissors-lizard-spock.git
+   git clone https://github.com/ginevrabotrugno/rock_paper_scissors.git
 2. Sposta la cartella nel tuo server locale o ambiente di sviluppo.
 3. Assicurati che PHP sia correttamente configurato ed esegui l'applicazione.
 
