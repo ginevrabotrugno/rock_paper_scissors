@@ -27,14 +27,6 @@ Una semplice implementazione del gioco "Rock, Paper, Scissors, Lizard, Spock" ut
 3. Apri il progetto nel browser.
 4. Scegli la tua mossa e sfida il bot!
 
-## Installazione
-
-1. Clona il repository:
-   ```bash
-   git clone https://github.com/ginevrabotrugno/rock_paper_scissors.git
-2. Sposta la cartella nel tuo server locale o ambiente di sviluppo.
-3. Assicurati che PHP sia correttamente configurato ed esegui l'applicazione.
-
 ## Screenshot
 
 ![immagine](https://github.com/user-attachments/assets/611dca4e-d0f0-471f-9ca8-52e67dc3e52c)
